@@ -1,0 +1,4 @@
+# File Notebooks/self/data.json is 310.32 MB; this exceeds GitHub's file size limit of 100.00 MB
+# GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com. To github.com:Eshanatnight/Music-Genre-Analysis.git
+# don't want to deal with this for now so imma just add it to the gitignore
+data.json
