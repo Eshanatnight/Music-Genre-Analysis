@@ -9,7 +9,9 @@ We are using the **K-Nearest Neighbors** algorithm beacause of loads of reasons,
 ## Project Overview
 
 In short, we can define our project *problem statement* as like
+
 ```Given multiple audio files, and the task is to categorize each audio file in a certain category like audio belongs to Disco, hip-hop, etc. The music genre classification can be built using different approaches ```
+
 in which the top 4 most used approaches are listed below.
 
 * Multiclass Support Vector Machine
