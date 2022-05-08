@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+python-speech-features = "*"
+scipy = "*"
+numpy = "1.21"
+pandas = "*"
+librosa = "*"
+matplotlib = "*"
+sklearn = "*"
+tensorflow = "*"
 
 [dev-packages]
 
